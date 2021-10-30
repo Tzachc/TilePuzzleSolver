@@ -34,6 +34,12 @@ LEFT || RIGHT cost = 6
 
 ![alt text](https://github.com/Tzachc/TilePuzzleSolver/blob/main/data/fileInput.png)
 
+For the output:
+* First line shows the path to the goal state.
+* Second line shows how many nodes (states) the board generated.
+* Thirs line shows the cost.
+* Forth line shows the time (if you choose "with time").
+* Print all the board states (if you choose "with open").
 ***Output example:***
 ![alt text](https://github.com/Tzachc/TilePuzzleSolver/blob/main/data/output.png)
 
