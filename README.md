@@ -41,7 +41,8 @@ For the output:
 * Forth line shows the time (if you choose "with time").
 * Print all the board states (if you choose "with open").
 
-***Output example:***/
+***Output example:***
+
 ![alt text](https://github.com/Tzachc/TilePuzzleSolver/blob/main/data/output.png)
 
 
